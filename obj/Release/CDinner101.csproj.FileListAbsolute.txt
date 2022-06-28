@@ -1,0 +1,2 @@
+D:\CDinner101\obj\Release\CDinner101.csproj.AssemblyReference.cache
+D:\CDinner101\obj\Release\CDinner101.csproj.SuggestedBindingRedirects.cache
